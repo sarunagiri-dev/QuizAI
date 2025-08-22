@@ -1,4 +1,5 @@
-# AI Quiz Generator
+# QuizAI
+## An AI powered quiz generator
 
 A full-stack web application that generates intelligent, contextually-aware quizzes using AI. Built with modern technologies and enhanced with Wikipedia integration for factual accuracy.
 
